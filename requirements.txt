@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+wandb
+tqdm
+requests
+openai
